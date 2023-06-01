@@ -1,5 +1,5 @@
 # **Instruções**
-## CRUD em Laravel 5.8 -  Paginação sem javascript
+## CRUD em Laravel 5.8 -  Paginação com javascript
 
 _Instalação do Sistema:_
 
